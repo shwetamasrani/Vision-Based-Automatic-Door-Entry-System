@@ -9,4 +9,4 @@ Face detection is done using Haar like features of ***Viola Jones*** algorithm w
 
 # Mask Detection
 Mask Detection is done using CNN model with 2 convolution layers and 2 fully connected layers and accuracy is 95%
-Dataset is available at : [a link](https://github.com/prajnasb/observations/tree/master/experiements)
+Dataset is available at : [https://github.com/prajnasb/observations/tree/master/experiements]
