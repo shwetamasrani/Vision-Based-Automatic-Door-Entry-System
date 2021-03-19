@@ -6,3 +6,6 @@ Human or Person detection is performed using ***YOLO(You Only Look Once)*** algo
 
 # Face Detection
 Face detection is done using Haar like features of ***Viola Jones*** algorithm which uses a Cascading Classifier
+
+# Mask Detection
+Mask Detection is done using CNN model with 2 convolution layers and 2 fully connected layers and accuracy is 95%
